@@ -1,0 +1,9 @@
+# Ignore all `.log` files
+*.log
+
+# Ignore the `node_modules` folder
+cache/
+
+# Ignore compiled binaries
+*.exe
+*.dll
